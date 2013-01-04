@@ -1,4 +1,4 @@
-package ge.gov.mia.hbase.nat;
+package org.hbaseom;
 
 
 /**
